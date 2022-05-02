@@ -10,3 +10,4 @@ O:
 ![blacko](https://user-images.githubusercontent.com/89152313/166252900-76c4e85f-25ec-465a-a45b-8736d726dd7e.png)
 
 Other repository link with class diagram:
+https://github.com/strongpassword/appbrainticclassdia/blob/main/README.md
