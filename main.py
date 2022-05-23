@@ -8,6 +8,11 @@ class main():
    self.x=x
     
 class field(): #field is gameboard!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Inline-style: 
+![alt text](Screen Shot 2022-05-23 at 7.52.14 AM.png "field")
+![alt text][field]
+
+[logo]: Screen Shot 2022-05-23 at 7.52.14 AM.png "field"
   def__init__(self, width, length)
   width=15
   length=15
@@ -19,6 +24,8 @@ class field(): #field is gameboard!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   return 2*(self.width+self.length)
 
 class o(): 
+  Reference-style: 
+
    def: when keyPressed(insert(o))
    keyboard.press_and_release("shift+o, space")
     keyboard.write("O")
