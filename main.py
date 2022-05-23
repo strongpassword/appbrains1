@@ -1,4 +1,5 @@
 class main():
+  x = open("https://www.piskelapp.com/p/create/sprite")
   
  def __init__(self,field, o, timer, ttt, x)
    self.field=field
